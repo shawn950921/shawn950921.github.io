@@ -1,0 +1,46 @@
+h6 {
+    color: white;
+  }
+img{
+    width: 500px;
+}
+
+/* .newton{
+    width: 1000px;
+} */
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  
+  body {
+    /* The image used */
+    background-image: url("../images/lovepik-pure-color-grid-background-image_500839071.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #000000;
+  text-shadow: 3px 3px 1px rgb(255, 251, 251);
+  display: inline;
+}
+h6 {
+  font-size: 5px;
+  text-align: center;
+  margin: 0;
+  padding: 5px 0;
+  color: hwb(0 96% 0%);
+  text-shadow: 3px 3px 1px rgb(255, 251, 251);
+}
+#pop {
+  font-size: 30px;
+}
